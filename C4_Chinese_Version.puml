@@ -6,6 +6,7 @@
 ' ##################################
 
 !definelong CUSTOM_LAYOUT
+skinparam backgroundColor #EEEBDC
 legend right
 |= 颜色              |= 类型 |
 |<PERSON_BG_COLOR>      | 人员 |
